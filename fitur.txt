@@ -1,0 +1,4 @@
+Features:
+-Menampilkan peta
+-CRUD
+-Login 
